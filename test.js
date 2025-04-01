@@ -21,9 +21,3 @@ function showLibrary() {
     document.body.appendChild(newdiv);
   });
 }
-addBookToLibrary("The Great Gatsby", "F. Scott Fitzgerald", 180, true);
-addBookToLibrary("1984", "George Orwell", 328, false);
-addBookToLibrary("To Kill a Mockingbird", "Harper Lee", 281, true);
-addBookToLibrary("The Catcher in the Rye", "J.D. Salinger", 277, false);
-
-showLibrary();
