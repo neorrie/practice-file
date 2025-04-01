@@ -21,3 +21,5 @@ function showLibrary() {
     document.body.appendChild(newdiv);
   });
 }
+
+document.querySelector("#addbook").addEventListener("click", function () {});
